@@ -1,29 +1,17 @@
-## 👋 Hi, I'm Emran
-Expert Web Developer | Building real-world projects | Freelance web developer | JavaScript Lover 
+## 👋 Hi, I’m Emran
 
-I'm passionate about web development and continuously working on real-world projects to improve my skills and contribute to the tech community. I adapt quickly to ongoing projects and enjoy solving challenges efficiently.
+Transitioned from Textile Engineering to Web Development, now building modern, user-focused web applications.
 
-📌 Skills
-
-✅ Frontend Skills: 
-HTML5, CSS3, Tailwind CSS, JavaScript, TypeScript, React.js, Next.js
-
-✅ Backend Skills: 
-SQL, Firebase, Supabase, API Integration
-
-✅ Other Skills: 
-Git, Github, Figma (Design & Prototyping), Accessibility (Making web application usuable for everyone)
+📌SKILLS
+✅ Frontend Skills: HTML, CSS, JavaScript, React.js
+✅ Backend Skills: Node.js, SQL, NoSQL(Firebase, Supabase)
+✅ Other Skills: AI Context Engineering
 
 📌 What I'm Currently Doing
-
 ✅ Accepting freelance work
+✅ Learning AI Engineering
 
-✅ Open to collaborate on Frontend Projects
-
-✅ Deepening my React.js and Next.js expertise 
-
-Let's Connect:
-
+🤝 Let’s Connect
+Have a web project or idea? I’d love to help bring it to life. Let’s collaborate!
 💼 LinkedIn: https://www.linkedin.com/in/emrankhandev/
-
 📧 Email: khanemranpau@gmail.com
