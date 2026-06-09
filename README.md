@@ -1,24 +1,33 @@
-## 👋 Hi, I’m Emran
+# 👋 Hi, I'm Emran
 
-Transitioned from Textile Engineering to Web Development, now building modern, user-focused web applications.
+I build fast, modern web applications using **React**, **Next.js**, and **Node.js**. With a background in engineering and a growing focus on AI integration, I bring both technical depth and a systems mindset to every project.
 
-📌 SKILLS
+---
 
-✅ Frontend Skills: HTML, CSS, JavaScript, React.js
+## 🛠 Tech Stack
 
-✅ Backend Skills: Node.js, SQL, NoSQL(Firebase, Supabase)
+**Frontend**
+`React.js` `Next.js` `JavaScript` `HTML` `CSS`
 
-✅ Other Skills: AI Context Engineering
+**Backend**
+`Node.js` `SQL` `Firebase` `Supabase`
 
-📌 What I'm Currently Doing
+**AI**
+`Context Engineering` `AI-powered integrations`
 
-✅ Accepting freelance work
+---
 
-✅ Learning AI Engineering
+## ✅ Open To
 
-🤝 Let’s Connect
-Have a web project or idea? I’d love to help bring it to life.
+- 💼 Freelance & contract web projects
+- 🏢 Full-time roles at product-focused teams
+- 🤖 Collaborations involving AI + web development
 
-💼 LinkedIn: https://www.linkedin.com/in/emrankhandev/
+---
 
-📧 Email: khanemranpau@gmail.com
+## 📬 Let's Work Together
+
+If you're building something and need a developer who can own both the frontend and backend — let's talk.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrankhandev/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:khanemranpau@gmail.com)
