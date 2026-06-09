@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Emran
 
-I build fast, modern web applications using **React**, **Next.js**, and **Node.js**. With a background in engineering and a growing focus on AI integration, I bring both technical depth and a systems mindset to every project.
+I transitioned from Textile Engineering to Web Development — and I've been building ever since. I know my stack well, I learn fast, and I'm now doing freelance projects.
+I work with React, Next.js, and Node.js on the frontend and backend, and I'm actively integrating AI into the things I build.
 
 ---
 
